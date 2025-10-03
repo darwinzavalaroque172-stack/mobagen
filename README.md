@@ -103,3 +103,4 @@ It is the best all-around solution to:
 [![Star History Chart](https://api.star-history.com/svg?repos=InfiniBrains/mobagen&type=Date)](https://star-history.com/#InfiniBrains/mobagen&Date)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tolstenko)](https://github.com/anuraghazra/github-readme-stats)
+https://github.com/jab/bidict/blob/main/README.rst
