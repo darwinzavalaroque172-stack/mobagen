@@ -1,4 +1,4 @@
-# MoBaGEn
+https://github.com/jab/bidict/blob/main/README.rst# MoBaGEn
 
 MoBaGEn - Module Based Game Engine - Educational tool to teach game programming concepts.
 
